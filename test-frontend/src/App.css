@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+}
+.main {
+  height: 869px;
+  width: 100%;
+}
